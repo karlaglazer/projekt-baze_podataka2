@@ -1,0 +1,12 @@
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\obj\Debug\projekt_baze.csproj.AssemblyReference.cache
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\obj\Debug\projekt_baze.Properties.Resources.resources
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\obj\Debug\projekt_baze.csproj.GenerateResource.cache
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\obj\Debug\projekt_baze.csproj.CoreCompileInputs.cache
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\bin\Debug\projekt_baze.exe.config
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\bin\Debug\projekt_baze.exe
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\bin\Debug\projekt_baze.pdb
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\obj\Debug\projekt_baze.csproj.CopyComplete
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\obj\Debug\projekt_baze.exe
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\obj\Debug\projekt_baze.pdb
+C:\Users\Karla\source\repos\projekt_baze\projekt_baze\obj\Debug\projekt_baze.Form2.resources
